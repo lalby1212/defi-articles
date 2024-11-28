@@ -1,5 +1,5 @@
 # The Role of Smart Contracts in Revolutionizing Finance: How Automation Powers DeFi
-
+![Cover Image](.![pexels-markus-winkle![pexels-markus-winkler-1430818-18500862](https://github.com/user-attachments/assets/a17f82a8-1ccf-4541-a4d2-884b5c86d862)/)
 ---
 
 ## Introduction
@@ -67,7 +67,7 @@ Beyond finance, smart contracts have potential applications in **real estate**, 
 ## Conclusion
 
 Smart contracts are revolutionizing financial services, laying the foundation for a more decentralized, transparent, and efficient system. Their role in DeFi is just the beginning. As technology evolves and more people embrace decentralization, smart contracts will become a cornerstone of the digital economy.
-![Cover Image](.![pexels-markus-winkle![pexels-markus-winkler-1430818-18500862](https://github.com/user-attachments/assets/a17f82a8-1ccf-4541-a4d2-884b5c86d862)/)
+
 
 
 
