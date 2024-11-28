@@ -1,5 +1,5 @@
 # The Role of Smart Contracts in Revolutionizing Finance: How Automation Powers DeFi
-![Cover Image](.![pexels-markus-winkle![pexels-markus-winkler-1430818-18500862](https://github.com/user-attachments/assets/a17f82a8-1ccf-4541-a4d2-884b5c86d862)/)
+![Cover Image](/pexels-markus-winkler-1430818-18500862.jpg)
 ---
 
 ## Introduction
